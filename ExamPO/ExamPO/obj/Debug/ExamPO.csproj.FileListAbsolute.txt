@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ExamPO\ExamPO\bin\Debug\ExamPO.exe.config
+C:\Users\User\source\repos\ExamPO\ExamPO\bin\Debug\ExamPO.exe
+C:\Users\User\source\repos\ExamPO\ExamPO\bin\Debug\ExamPO.pdb
+C:\Users\User\source\repos\ExamPO\ExamPO\obj\Debug\ExamPO.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExamPO\ExamPO\obj\Debug\ExamPO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamPO\ExamPO\obj\Debug\ExamPO.exe
+C:\Users\User\source\repos\ExamPO\ExamPO\obj\Debug\ExamPO.pdb
